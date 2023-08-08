@@ -1,2 +1,2 @@
-# Google trend API Network graph python
+# Project for data science
 ...
